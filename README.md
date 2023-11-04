@@ -1,3 +1,3 @@
 # odin-Calculator
 
-This is the calculator project
+This is the COMPLETED calculator project
